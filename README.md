@@ -17,7 +17,6 @@ This solar energy system consists of the following key components:
 7. **Monitoring System**: Tracks performance and energy production.
 
 ---
-
 ## System Design Diagram
 
 Below is a simple design diagram illustrating the connections:
@@ -36,6 +35,7 @@ Below is a simple design diagram illustrating the connections:
 ```
 <img src="https://github.com/kaifanzheng/Farm-Systems/blob/main/diagrams/solar-panel-and-wind-power-generation-system-for-home-renewable-energy-concept-simplified-diagram-of-an-off-grid-system-wind-turbine-solar-panel-P701RA.jpg" alt="drawing" width="600"/>
 
+---
 ## Components and Recommendations
 
 ### 1. Solar Panels
